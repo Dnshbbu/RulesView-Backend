@@ -1,0 +1,8 @@
+/__pycache__/
+/logs/
+/uploads/
+#/conf/
+/db/
+*.db
+/env/*
+*.todo
