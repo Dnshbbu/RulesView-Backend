@@ -32,7 +32,10 @@ This repository is to store the backend code for RulesView Application
 5. Run ``python RunBackend.py`` to start the Flask server
 6. If everything configured correctly, your python backend flask server is now running.
 
-
+### Technology stack
+1. [Python3](https://www.python.org/downloads/)
+2. [Flask framework](https://flask.palletsprojects.com/en/1.1.x/)
+3. [Neo4j](https://neo4j.com/)
 
 
 
